@@ -1,1 +1,22 @@
-{"__resolveType":"site/sections/Header.tsx","navigation":{"links":[],"buttons":[]}}
+{
+  "__resolveType": "site/sections/Header.tsx",
+  "navigation": {
+    "links": [
+      {
+        "label": "Pricing",
+        "url": "google.com"
+      }
+    ],
+    "buttons": [
+      {
+        "href": "login",
+        "text": "Login"
+      },
+      {
+        "href": "signup",
+        "text": "Register",
+        "outline": true
+      }
+    ]
+  }
+}
